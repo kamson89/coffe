@@ -1,2 +1,2 @@
-# coffe
+# coffee
 Coffee Machine project from hyperskill
